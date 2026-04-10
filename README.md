@@ -1,6 +1,6 @@
 # ⚡ ¡Hola! Soy Leonel
 
-**Red Team Enthusiast | Penetration Tester | Software Engineer**
+**Red Team Enthusiast | Penetration Tester | Futuro Software Engineer**
 
 Me especializo en seguridad ofensiva, administración de redes y desarrollo de software. Mi enfoque está en entender la arquitectura de los sistemas desde sus cimientos para auditar, explotar y asegurar infraestructuras complejas. 
 
